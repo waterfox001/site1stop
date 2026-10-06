@@ -1,0 +1,7 @@
+{
+  "name": "STOPCASE — Travel Storage Experience",
+  "description": "O novo padrão digital para guarda-volumes e lockers em aeroportos. Deixe a mala, leve a viagem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
